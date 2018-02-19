@@ -1,0 +1,13 @@
+body {
+    padding-top: 20px;
+}
+
+
+#deleteForm {
+    display: inline;
+}
+
+#blogBody {
+    line-height:1.5;
+    margin: 15px 0;
+}
